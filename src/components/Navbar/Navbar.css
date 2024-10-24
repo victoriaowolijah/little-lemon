@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    background: rgb(197, 101, 101);
+    color: aqua;
+
+}
+
+.navbar {
+    padding-right: 30px;
+
+}
+.menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    padding-right: 30px;
+
+}

@@ -1,0 +1,13 @@
+.header{
+    height: 34vh;
+    margin: 30px auto;
+    background: url('../burger.jpg');
+    background-size: contain;
+    position:relative;
+}
+.content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+
+}
